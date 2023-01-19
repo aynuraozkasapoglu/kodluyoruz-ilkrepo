@@ -32,3 +32,4 @@ License
 
 [MIT](https://www.mit.edu/~amini/LICENSE.md)
 ![Kodluyoruz](https://pbs.twimg.com/media/Dg7M-w3X0AEMsJ5?format=jpg&name=large)
+https://app.patika.dev/sweay
